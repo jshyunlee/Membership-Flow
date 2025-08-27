@@ -1,1 +1,1 @@
-HTML/CSS Email Template Flows For VIP Membership
+HTML MEMBERSHIP EMAIL TEMPLATES
